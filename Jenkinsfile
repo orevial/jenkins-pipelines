@@ -1,4 +1,4 @@
 node() {
-	stage "Hello master"
-	echo "Hello master !"
+	stage "Hello newfeature"
+	echo "Hello newfeature !"
 }
